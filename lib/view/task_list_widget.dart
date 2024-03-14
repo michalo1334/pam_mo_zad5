@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:mo_zad5/model/task.dart';
-import 'package:mo_zad5/model/taskListDbProxy.dart';
-import 'package:mo_zad5/view/task_details_widget.dart';
-import 'package:mo_zad5/view/task_list_entry_widget.dart';
+import '/model/task.dart';
+import '/model/taskListDbProxy.dart';
+import '/view/task_details_widget.dart';
+import '/view/task_list_entry_widget.dart';
 
 class TaskListWidget extends StatefulWidget {
   final List<Task> _initTasks;

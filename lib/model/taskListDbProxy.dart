@@ -1,7 +1,7 @@
 import 'dart:collection';
 import 'dart:io';
 
-import 'package:mo_zad5/model/task.dart';
+import 'task.dart';
 
 import 'dart:async';
 

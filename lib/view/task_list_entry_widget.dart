@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:mo_zad5/model/task.dart';
+import '/model/task.dart';
 
-import 'package:mo_zad5/view/task_details_widget.dart';
+import '/view/task_details_widget.dart';
 
 class TaskListEntryWidget extends StatefulWidget {
   final int _initTaskIndex;
